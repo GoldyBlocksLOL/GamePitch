@@ -1,0 +1,62 @@
+De Rosa, Amanda
+Tassia Camoes-Araujo	
+420-141-VA sect. 00003
+2021/10/26
+pitch.txt © 2021 by Amanda De Rosa is licensed under CC BY 4.0 
+
+• Game name
+	name
+
+• Game idea (short description)
+	idea
+
+• Scenario and characters description (include placeholder graphics, drafts, references)
+	- Scenario:
+		•
+	- Characters:
+		• Character Name
+			- Description
+		• Character Name
+			- Description
+		• Character Name
+			- Description
+		• Character Name
+			- Description
+
+• Characters’ actions and goals
+	- Character Name
+		• Actions:
+			-
+		• Goals:
+			-
+	- Character Name
+		• Actions:
+			-
+		• Goals:
+			-
+
+• Game Win/Lose conditions
+	- Win:
+		•
+	- Lose:
+		•
+
+• Progression of levels
+	- Level 1:
+		•
+	- Level 2:
+		•
+	- Level 3:
+		•
+	- Level 4:
+		•
+
+• Sources of inspiration (other games, movies, etc that inspired your idea)
+	-
+	-
+	-
+
+• What skills/interests you are looking for in a team mate
+	-
+	-
+	-
