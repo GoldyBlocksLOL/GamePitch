@@ -36,7 +36,8 @@ NYCTOPHOBIA © 2021 by Amanda De Rosa is licensed under CC BY 4.0
 
 • Scenario and characters description (include placeholder graphics, drafts, references)
 	- Scenario:
-		•
+		• The player, who's character's name is Sky, has to escape a forest maze without losing their sanity
+		  in the darkness. They will interact with NPCs along the way for aid.
 	- Characters:
 		• Sky
 			- Protagonist
