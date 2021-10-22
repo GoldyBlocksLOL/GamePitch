@@ -2,61 +2,99 @@ De Rosa, Amanda
 Tassia Camoes-Araujo	
 420-141-VA sect. 00003
 2021/10/26
-pitch.txt © 2021 by Amanda De Rosa is licensed under CC BY 4.0 
+NYCTOPHOBIA © 2021 by Amanda De Rosa is licensed under CC BY 4.0 
 
-• Game name
-	name
+• Game Name
+	NYCTOPHOBIA
 
-• Game idea (short description)
-	idea
+• Game Idea (short description)
+	The player has to make it out of the forest maze in the dark. They only have a candle and a lighter
+	on them with limited fuel. They have to make it out of the maze before they become consumed by the darkness.
+	There will be NPCs that will be in different areas of the forest who will help guide the player out of
+	the maze with hints in the form of riddles. Since the forest is very windy, the candle will lose its flame
+	and it is up to the player to make sure the candle stays lit. If the player is in complete darkness, they
+	will start to lose sanity. If their sanity reaches 0, the game is over. To win the game, you need to make it
+	out of the forest maze.
+
+	- The game will be a 2-dimensional game with an overhead view. (Similar to old version of Pokemon or Legend
+	  of Zelda or even Undertale and Earthbound.)
+	- Genre:
+		• Survival Horror (but not really horror? more like just psychological horror when you lose sanity?)
+		• Puzzle
+		• Strategy (in the sense that you have to plan out when you
+	  	           relight your candle in sacrifice of your time,
+			   or don't relight your candle to sacrifice
+	 		   your vision but to save your fuel.)
+	
+	- The theme will be a mix of horror, puzzle and strategy in the sense that you have to plan out when you
+	  relight your candle in sacrifice of your time, or don't relight your candle to sacrifice your vision
+	  but to save fuel.
+	- Think of Don't Starve Together for the surviving in the dark aspect.
+
+	I also think it'd be smart have landmarks (like a giant tree or even a tree stump or something) to somewhat
+	guide the player.
 
 • Scenario and characters description (include placeholder graphics, drafts, references)
 	- Scenario:
 		•
 	- Characters:
-		• Character Name
-			- Description
-		• Character Name
-			- Description
-		• Character Name
-			- Description
-		• Character Name
-			- Description
+		• Sky
+			- Protagonist
+			- Genderless
+			- Purple Shirt with Blue Jeans
+			- Child-like?
+			- Mute, has no dialogue options only to listen to NPCs.
+		• Character Name (TBD)
+			- NPC 1
+			- This one could possibly give more fuel if the riddle is guessed correctly
+		• Character Name (TBD)
+			- NPC 2
+			- This one could give a hint on how to get out (like indicate where a landmark is and go
+			  from there?)
+		• Character Name (TBD)
+			- NPC 3
+			- This one could heal your sanity if you rest with them for a bit, I was thinking they could
+			  read you a story or something.
+
+	I believe more NPCs can be added but this is just a general idea for now!
 
 • Characters’ actions and goals
-	- Character Name
+	- Protagonist
 		• Actions:
-			-
+			- Relight candle
+			- Walk around
+			- Interact with NPCs
 		• Goals:
-			-
-	- Character Name
+			- Escape the maze
+	- NPC 1
 		• Actions:
-			-
-		• Goals:
-			-
+			- Give Player more fuel
+	- NPC 2
+		• Actions:
+			- Give Player hint on how to escape
+	- NPC 3
+		• Actions:
+			- Give Player more sanity
 
 • Game Win/Lose conditions
 	- Win:
-		•
+		• You reach the end of the maze.
 	- Lose:
-		•
+		• You lose all your sanity in the dark.
 
 • Progression of levels
-	- Level 1:
-		•
-	- Level 2:
-		•
-	- Level 3:
-		•
-	- Level 4:
-		•
+	- I don't think there's really levels, but maybe a possible inclusion to the game is objectives so the game
+	  is replayable. Like let's say you need to collect a certain object in the maze and escape with it to get
+	  a star at the end of the game. To get another star you'd need to do something else on top of that.
+	- Maybe you can have a rating at the end of the game on all the tasks you were able to complete while escaping?
 
 • Sources of inspiration (other games, movies, etc that inspired your idea)
-	-
-	-
-	-
+	- Don't Starve Together
+	- Slenderman
+	- Undertale (for the artstyle and NPC communication?)
 
 • What skills/interests you are looking for in a team mate
-	-
-	-
-	-
+	- Someone with good coding skills
+	- Someone who is creative
+	- Someone who doesn't procrastinate
+	- Someone who has an open mind
